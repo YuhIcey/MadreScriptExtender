@@ -10,7 +10,7 @@ Once initialized, the hook captures game state changes and routes relevant event
 
 ## Components
 
-### MadreBrowser.exe (Windows) / MadreBrowser (Linux/macOS)
+### MadreBrowser.exe (Windows) / MadreBrowser (Linux/macOS) - Modifiable NOT THE REAL RELEASE
 
 MadreBrowser is the launcher for Sierra Madre Online. It provides a streamlined interface for:
 
